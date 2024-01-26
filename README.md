@@ -24,6 +24,7 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
 <div>
 <details>
   <summary> 🦹‍♂️ More about me </summary>
+  
   - 🔭 Currently, I'm on a journey to build **great** things.
   
   - 🌱 I'm currently learning **everything** 🤓.
