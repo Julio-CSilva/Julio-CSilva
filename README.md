@@ -3,6 +3,7 @@
 ![](https://github.com/Julio-CSilva/Julio-CSilva/blob/main/header_.png)
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/julio-csilva/">
     <img width="130" height="30" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
@@ -35,17 +36,20 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
 </details>
 </p>
 
-<!--
-**Julio-CSilva/Julio-CSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<p align="leth">
+    <img align="right" width="350" src="WyJ4.gif" >
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Julio-CSilva">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Julio-CSilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <br><br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia"/>
+  <br><br>
+    
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Julio-CSilva&theme=rogue&radius=10)](https://github.com/Julio-CSilva/github-readme-activity-graph)
+</div>
+
+<hr>
