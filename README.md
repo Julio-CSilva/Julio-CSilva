@@ -39,7 +39,7 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
 <br><br>
 
 <p align="leth">
-    <img align="right" width="500" src="WyJ4.gif" >
+    <img align="right" width="400" src="WyJ4.gif" >
 </p>
 
 <div>
