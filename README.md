@@ -39,7 +39,7 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
 <br><br>
 
 <p align="leth">
-    <img align="right" width="400" src="WyJ4.gif" >
+    <img align="right" width="430" src="WyJ4.gif" >
 </p>
 
 <div>
@@ -50,12 +50,15 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
   <a href="https://github.com/Julio-CSilva">
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia&card_width=500" alt="Linguagens mais usadas" />
   </a>
+  <br>
+  <a href="https://github.com/Julio-CSilva">
+    <img width="400" src="https://streak-stats.demolab.com?user=Julio-CSilva&theme=algolia&card_width=467" alt="Sequência de commits" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://github.com/Julio-CSilva">
-    <img height="180" src="https://streak-stats.demolab.com?user=Julio-CSilva&theme=algolia&card_width=467" alt="Sequência de commits" />
-  </a>
   <a href="https://github.com/Julio-CSilva">
     <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=Julio-CSilva&bg_color=050F2C&color=00AEFF&line=2DDE98&point=FFFFFF&area=true&radius=10" alt="Gráfico de atividades do GitHub" />
   </a>
