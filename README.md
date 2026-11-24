@@ -39,16 +39,16 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
 <br><br>
 
 <p align="leth">
-    <img align="right" width="500" src="WyJ4.gif" >
+    <img align="right" width="400" src="WyJ4.gif" >
 </p>
 
 <div>
   <a href="https://github.com/Julio-CSilva">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=Julio-CSilva&show_icons=true&theme=algolia&card_width=500" alt="Estatísticas do GitHub" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Julio-CSilva&show_icons=true&theme=algolia&card_width=500" alt="Estatísticas do GitHub" />
   </a>
   <br>
   <a href="https://github.com/Julio-CSilva">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia&card_width=500" alt="Linguagens mais usadas" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia&card_width=500" alt="Linguagens mais usadas" />
   </a>
 </div>
 
