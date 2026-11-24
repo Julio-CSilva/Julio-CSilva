@@ -44,12 +44,16 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
 
 <div>
   <a href="https://github.com/Julio-CSilva">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Julio-CSilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <br><br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Julio-CSilva&show_icons=true&theme=algolia" alt="Estatísticas do GitHub" />
+  </a>
   <br><br>
-    
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Julio-CSilva&theme=rogue&radius=10)](https://github.com/Julio-CSilva/github-readme-activity-graph)
+  <a href="https://github.com/Julio-CSilva">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia" alt="Linguagens mais usadas" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Julio-CSilva/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julio-CSilva&theme=rogue&radius=10" alt="Gráfico de atividades do GitHub" />
+  </a>
 </div>
 
 <hr>
