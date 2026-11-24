@@ -39,20 +39,25 @@ Hi 👋, I'm Júlio César, a software engineering student passionate about bioi
 <br><br>
 
 <p align="leth">
-    <img align="right" width="350" src="WyJ4.gif" >
+    <img align="right" width="500" src="WyJ4.gif" >
 </p>
 
 <div>
   <a href="https://github.com/Julio-CSilva">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Julio-CSilva&show_icons=true&theme=algolia" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Julio-CSilva&show_icons=true&theme=algolia&card_width=500" alt="Estatísticas do GitHub" />
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/Julio-CSilva">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-CSilva&layout=compact&langs_count=8&theme=algolia&card_width=500" alt="Linguagens mais usadas" />
   </a>
-  <br><br>
-  <a href="https://github.com/Julio-CSilva/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julio-CSilva&theme=rogue&radius=10" alt="Gráfico de atividades do GitHub" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Julio-CSilva">
+    <img height="180" src="https://streak-stats.demolab.com?user=Julio-CSilva&theme=algolia&card_width=467" alt="Sequência de commits" />
+  </a>
+  <a href="https://github.com/Julio-CSilva">
+    <img width="865" src="https://github-readme-activity-graph.vercel.app/graph?username=Julio-CSilva&bg_color=050F2C&color=00AEFF&line=2DDE98&point=FFFFFF&area=true&radius=10" alt="Gráfico de atividades do GitHub" />
   </a>
 </div>
 
